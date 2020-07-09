@@ -9,11 +9,11 @@ This library is in the initial stage, with time I will add more components
 
 TBD
 
-##Covered components and usages
+## Covered components and usages
 
 
 - TextField: Text input only
 - RadioGroup: Radio 
 - Autocomplete: Autocomplete single/multiple, freeSolo
 
-##DOCUMENTATION TO BE CONTINUED ASAP
+## DOCUMENTATION TO BE CONTINUED ASAP
